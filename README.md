@@ -1,1 +1,1 @@
-# Detect-text-in-image2
+# Detect-text-in-image
